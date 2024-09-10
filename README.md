@@ -1,7 +1,5 @@
 <p align="center" width="100%">
-    <img src="assets/quadcorps-logo.png">
-    <img src="assets/plus.png" width="100px" height="100px"  >
-    <img src="assets/kong-logo.png" hspace="10">
+    <img src="assets/quadcorps-kong-logo.png">
 </p>
 
 # Kong JIRA AI Sentiment Wire Tap plugin
